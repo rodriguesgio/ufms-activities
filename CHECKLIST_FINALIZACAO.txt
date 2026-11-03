@@ -1,0 +1,16 @@
+FINALIZAÇÃO DA ENTREGA — UFMS
+
+1. Abra o ZIP e extraia a pasta sistema-doacoes-alimentos.
+2. No terminal, entre na pasta e execute:
+   npm install
+   npm run dev
+3. Confira as telas: Visão geral, Doações, Estoque e Instituições.
+4. No relatório PDF, preencha:
+   - Semestre letivo;
+   - Município/local de realização.
+5. Publique o conteúdo da pasta em um repositório público do GitHub.
+6. Substitua o link de exemplo no relatório pelo endereço real do repositório.
+7. Revise o relatório para confirmar que a descrição corresponde aos testes realizados.
+
+Observação: os registros são fictícios e armazenados no navegador (LocalStorage).
+O protótipo não possui backend, autenticação ou banco de dados compartilhado.
